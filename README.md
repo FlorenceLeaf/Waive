@@ -44,3 +44,6 @@ requirements.txt:
 then, pip install -r requirements.txt
 
 
+post note, this was an amature and first attempt in creating a remotly working program so please excuse me for it
+
+
